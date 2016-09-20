@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3AAAEF93-29B7-6AE7-7997-CA563D68E64B}") = "Tesco Loot", "Assembly-CSharp.csproj", "{9F9BE4B7-05EB-6CFB-9CF0-FAAD27665E8E}"
+EndProject
+Project("{3AAAEF93-29B7-6AE7-7997-CA563D68E64B}") = "Tesco Loot", "Assembly-CSharp-Editor.csproj", "{3674EC57-A50C-AA03-21C3-3D26AFA81F16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F9BE4B7-05EB-6CFB-9CF0-FAAD27665E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9BE4B7-05EB-6CFB-9CF0-FAAD27665E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9BE4B7-05EB-6CFB-9CF0-FAAD27665E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9BE4B7-05EB-6CFB-9CF0-FAAD27665E8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3674EC57-A50C-AA03-21C3-3D26AFA81F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3674EC57-A50C-AA03-21C3-3D26AFA81F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3674EC57-A50C-AA03-21C3-3D26AFA81F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3674EC57-A50C-AA03-21C3-3D26AFA81F16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
